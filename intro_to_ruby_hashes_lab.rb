@@ -1,6 +1,6 @@
 def base_hash
 	monopoly = {
-  :player => 5
+  :railroads => 5
 }
 end
 
